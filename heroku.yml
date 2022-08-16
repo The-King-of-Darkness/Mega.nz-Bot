@@ -3,3 +3,6 @@ build:
   docker:
 
     web: Dockerfile
+run:
+
+    web: bash startup.sh

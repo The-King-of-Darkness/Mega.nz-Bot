@@ -15,7 +15,7 @@ Messages = {
   ✘ Wait Till It Download and Upload to Telegram.
 
 
-**Made with ❤️ by @NexaBotsUpdates**    
+**Made with ❤️ by @TheSielntvip For The Recruitment With Us @SpecialTeamSilentVip**    
 """,
 
     "up": """
@@ -29,7 +29,7 @@ Messages = {
   ✘ Wait till It Download and Upload to Mega.nz
   
 
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with ❤️ by @TheSielntvip For The Recruitment With Us @SpecialTeamSilentVip**
 """,
 
     "import": """
@@ -41,7 +41,7 @@ Messages = {
   ✘ Wait till It Finish
 
 
-**Made with ❤️ by @NexaBotsUpdates**    
+**Made with ❤️ by @TheSielntvip For The Recruitment With Us @SpecialTeamSilentVip**    
 """,
 
     "file_info": """
@@ -53,7 +53,7 @@ Messages = {
   ✘ Type: `{uname} details` and after that give a one space and paste your mega.nz link (**Usage:** `{uname} details your_mega_link`)
 
 
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with ❤️ by @TheSielntvip For The Recruitment With Us @SpecialTeamSilentVip**
 """,
 
     "acc_info": """
@@ -65,7 +65,7 @@ Messages = {
   ✘ Type: `{uname} info` (**Usage:** `{uname} info`)
 
 
-**Made with ❤️ by @NexaBotsUpdates**
+**Made with ❤️ by @TheSielntvip For The Recruitment With Us @SpecialTeamSilentVip**
 """
 }
 
@@ -128,7 +128,7 @@ Buttons = {
         [InlineKeyboardButton(
             "Source Code 🗂", url="https://github.com/Itz-fork/Mega.nz-Bot")],
         [InlineKeyboardButton(
-            "Support Group 🆘", url="https://t.me/Nexa_bots")]
+            "Support Group 🆘", url="https://t.me/FlexersEmpire")]
     ],
 
     "cancel": [
@@ -178,7 +178,7 @@ ERROR_TEXT = """
 
 Log: {}
 
-Save the Log file and Send it to @Nexa_bots for Help :)
+Save the Log file and Send it to @FlexersEmpire for Help :)
 """
 
 START_TEXT="""
@@ -189,5 +189,5 @@ START_TEXT="""
 /_/ |_/\___/_/|_|\__,_/  /_____/\____/\__/____/ 
 
 
-Bot is Running Now! Join @NexaBotsUpdates
+Bot is Running Now! Join @TheSielntvip For The Recruitment With Us @SpecialTeamSilentVip
 """
